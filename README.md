@@ -1,1 +1,13 @@
 # cuddly-octo-spoon
+
+- How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+By following standard program practices such as consistent formatting, code line length, and use of comments; I'm able to make my code not only functional, but easy to understand if I were to show my program to another developer. By working this way, I'm able to go through my code seemlessly and check for any potential errors, or if I want to adjust my code to something different. If I ever need a refresher on how I should sort my code, I can look back on this CRUD Python module and see what I adjust to properly fit CRUD.
+
+- How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+As a computer scientist, I first look at what the program is and how the code functions. Afterwards, I then look at the console window to see what error is detected and then see how I can fix the code. For this paticular assignment, I had to incorporate a pie chart into the program. I had to make sure the pie chart properly displayed the percentages of each animal rescue, the title of the pie chart, and the color legend for each animal rescue. Techniques and strategies that I'd use would be following CRUD as I work on the software, and make sure I meet the requests of my client.
+
+- What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientists research computing technologies. They may find a new algorithm to making a task easier, or perhaps adjust an existing algorithm to see how the change interacts with the software. Things like these matter because, if I refer back to my example, if the algorithm change proves to be a positive difference, it'll be used. In the event that the algorithm change is massive, it could even become the standard moving forward. My work would help a company because my usage of CRUD, as well as my code formatting, will make reading my code a breeze, which will help when working with others.
